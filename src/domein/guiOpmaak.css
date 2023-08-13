@@ -1,0 +1,39 @@
+.button {
+    -fx-border-color: #b3b3b3;
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+    -fx-background-size: cover;
+}
+#muur {
+    -fx-background-color: #F4F4F4;
+}
+
+#grijs {
+    -fx-background-color: #d4d4d4;
+}
+
+#wit {
+	-fx-background-color: #ffffff;
+}
+.text-field:totaal{
+    -fx-text-box-border: black;
+}
+.button-1 {
+    -fx-background-image: url("../images/1.png");
+}
+
+.button-2 {
+    -fx-background-image: url("../images/2.png");
+}
+.button-3 {
+    -fx-background-image: url("../images/3.png");
+}
+.button-4 {
+    -fx-background-image: url("../images/4.png");
+}
+.button-5 {
+    -fx-background-image: url("../images/5.png");
+}
+.button-6 {
+    -fx-background-image: url("../images/6.png");
+}
